@@ -1,0 +1,13 @@
+{
+  "description": "Personal dev website for Marcelo 'ElMangusto' Carvalho",
+  "repo": "https://github.com/grandones/grandones.github.io",
+  "owner": {
+    "username": "grandones",
+    "email": "mbacarvalho@gmail.com",
+    "twitter": "@ElMangusto",
+    "discord": "Mangusto#8074"
+  },
+  "record": {
+    "CNAME": "grandones.github.io"
+  }
+}
